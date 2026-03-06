@@ -20,4 +20,8 @@
 }
 .music-player{
   background-color: yellow;
+  bottom: 0;
+  position: fixed;
+  height: 72px;
+  width: 100%;
 }
